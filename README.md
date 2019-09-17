@@ -63,3 +63,4 @@ Interested in partnering, supporting graduate student research or the Subsurface
 # WTI Crude Oil Price Prediction
 
 To view the final results of the sprint project, view the Jupyter notebook titled "WTI Crude Oil Price Prediction".
+The "Sprint - Data Munging" notebook was the initial exploration and testing, and does not include documentation of code. Refer to the "WTI Crude Oil Price Prediction" notebook for an understanding of methodologies and code.
