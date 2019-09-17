@@ -61,3 +61,5 @@ Want to invite us to visit your company for training, mentoring, project review,
 
 Interested in partnering, supporting graduate student research or the Subsurface Data Analytics and Machine Learning consortium (co-PIs including Profs. Foster, Torres-Verdin and van Oort)? Our research combines data analytics, stochastic modeling and machine learning theory with practice to develop novel methods and workflows to add value. We are solving challenging subsurface problems!
 # WTI-Crude-Oil-Price-Prediction
+
+To view the final results of the sprint project, view the Jupyter notebook titled "WTI Crude Oil Price Prediction".
