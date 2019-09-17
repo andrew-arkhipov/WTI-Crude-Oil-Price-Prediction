@@ -1,0 +1,2 @@
+# WTI Prediction
+In this sprint students are expected to analyze various publicly reported macroeconomic data, including but not limited to, oil inventory levels in the USA, public stock indices, GDP growth, automobile sales, the share of oil in the total energy mix, etc. The students are expected to split the data set in 3 subsets of train, test, and hold-out and evaluate their model over high and low price environments. The students are expected to report the importance of variables from their analysis.
